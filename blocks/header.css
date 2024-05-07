@@ -6,7 +6,7 @@
 }
 
 .header__title {
-  width: 720px;
+  max-width: 720px;
   height: 200px;
 
   font-size: 100px;
@@ -18,17 +18,37 @@
 }
 
 .header__subtitle {
-  width: 720px;
+  max-width: 720px;
   height: 72px;
   margin: 0 auto 64px;
 
   text-align: center;
   font-size: 30px;
-  font-style: normal;
+  line-height: 36px;
   font-weight: 400;
 }
 
 .header__image {
   max-width: 100%;
-  height: 615px;
+  max-height: 615px;
+  object-fit: fill;
+}
+
+@media screen and (max-width: 768px) {
+  .header__title {
+    max-width: 530px;
+    height: 158px;
+
+    font-size: 75px;
+    line-height: 79px;
+    margin: 90px auto 30px;
+  }
+
+  .header__subtitle {
+    margin: 0 auto 25px;
+  }
+
+  .header__image {
+    max-height: 480px;
+  }
 }

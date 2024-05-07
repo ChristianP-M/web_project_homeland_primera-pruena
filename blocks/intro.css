@@ -6,7 +6,7 @@
 }
 
 .intro__title {
-  width: 830px;
+  max-width: 830px;
   height: 173.92px;
 
   font-size: 58px;
@@ -19,7 +19,7 @@
 }
 
 .intro__references {
-  width: 738px;
+  max-width: 738px;
   height: 179.57px;
   display: flex;
   flex-direction: column;
@@ -28,14 +28,13 @@
 }
 
 .intro__references-text {
-  width: 738px;
   height: 135.66px;
   font-size: 24px;
   margin: 0;
 }
 
 .intro__references-person {
-  width: 732px;
+  max-width: 732px;
   height: 33.91px;
   font-size: 24px;
   margin: 0;
@@ -43,7 +42,7 @@
 }
 
 .intro__text-description {
-  width: 722px;
+  max-width: 722px;
   height: 181.54px;
   line-height: 163%;
   margin-top: 35.89px;
