@@ -7,7 +7,7 @@
 
 .intro__title {
   max-width: 830px;
-  height: 173.92px;
+  min-height: 173.92px;
 
   font-size: 58px;
   text-align: start;
@@ -20,7 +20,7 @@
 
 .intro__references {
   max-width: 738px;
-  height: 179.57px;
+  min-height: 179.57px;
   display: flex;
   flex-direction: column;
   margin-top: 36px;
@@ -28,14 +28,14 @@
 }
 
 .intro__references-text {
-  height: 135.66px;
+  min-height: 135.66px;
   font-size: 24px;
   margin: 0;
 }
 
 .intro__references-person {
   max-width: 732px;
-  height: 33.91px;
+  min-height: 33.91px;
   font-size: 24px;
   margin: 0;
   text-align: end;
@@ -43,7 +43,7 @@
 
 .intro__text-description {
   max-width: 722px;
-  height: 181.54px;
+  min-height: 181.54px;
   line-height: 163%;
   margin-top: 35.89px;
   margin-bottom: 0;
