@@ -1,0 +1,51 @@
+.intro {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-left: 148px;
+}
+
+.intro__title {
+  width: 830px;
+  height: 173.92px;
+
+  font-size: 58px;
+  text-align: start;
+  line-height: 58px;
+  font-weight: bold;
+
+  margin-top: 92px;
+  margin-bottom: 0;
+}
+
+.intro__references {
+  width: 738px;
+  height: 179.57px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 36px;
+  gap: 10px;
+}
+
+.intro__references-text {
+  width: 738px;
+  height: 135.66px;
+  font-size: 24px;
+  margin: 0;
+}
+
+.intro__references-person {
+  width: 732px;
+  height: 33.91px;
+  font-size: 24px;
+  margin: 0;
+  text-align: end;
+}
+
+.intro__text-description {
+  width: 722px;
+  height: 181.54px;
+  line-height: 163%;
+  margin-top: 35.89px;
+  margin-bottom: 0;
+}
