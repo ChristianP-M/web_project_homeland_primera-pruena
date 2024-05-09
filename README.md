@@ -6,9 +6,10 @@
 
 ## Descripción del proyecto y su funcionalidad.
 
-Este es mi proyecto 5 de mi curso de Tripleten. "Srpint 5".
+Este es mi proyecto 5 de mi curso de Tripleten. "Sprint 5"
 
 #### Descripcion:
+
 La principal funcionalidad de este proyecto se basa en empezar a crear paginas web totalmente responsivas. Gracias a que solo se nos proporcino un brief, nos dieron total libertad de hacer la página en cuanto nuestros conocimientos (En dado caso de que haya correcciones por parte del staff, serán aplicadas), y no solo eso, pude reforzar los conocimientos sobre propiedades CSS, metodología BEM, y ahora, reforze mucho sobre las disntitnas formas de medidas relativas CSS (em y rem sobretodo) y a pesar de que no se observa un uso en esta página, me interesó tanto el tema que investigue mucho por mi cuenta.
 
 #### Funcionalidad:
