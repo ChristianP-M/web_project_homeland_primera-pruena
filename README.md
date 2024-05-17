@@ -1,8 +1,12 @@
-# Tripleten web_project_homeland
+# Tripleten web_project_homeland_primera_prueba
 
-**Accede a la vista de este proyecto desde el siguiente enlace!:**
+**Esta es una version anterior, de mi proyecto numero 5, la actual, con una version 6 mejorada y una mejor vista para el usuario, dejo a disposición la página de esta y la version nueva!**
 
-<https://christianp-m.github.io/web_project_homeland/>
+**Version 6 mejorada**
+https://github.com/ChristianP-M/web_project_homeland
+
+**Observa como antes se veia!:**
+<https://christianp-m.github.io/web_project_homeland_primera-pruena//>
 
 ## Descripción del proyecto y su funcionalidad.
 
